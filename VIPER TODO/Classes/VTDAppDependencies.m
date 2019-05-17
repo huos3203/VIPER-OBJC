@@ -73,8 +73,10 @@
     
     // List Modules Classes
     VTDListWireframe *listWireframe = [[VTDListWireframe alloc] init];
+    //
     VTDListPresenter *listPresenter = [[VTDListPresenter alloc] init];
     VTDListDataManager *listDataManager = [[VTDListDataManager alloc] init];
+    //模型逻辑
     VTDListInteractor *listInteractor = [[VTDListInteractor alloc] initWithDataManager:listDataManager clock:clock];
     
     // Add Module Classes
