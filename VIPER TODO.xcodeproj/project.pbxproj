@@ -291,6 +291,7 @@
 		557C6504192A7909008AF5BA /* Modules */ = {
 			isa = PBXGroup;
 			children = (
+				84E81EA822923E4200E630BB /* Report */,
 				5584BC2F192BFD06006BE9FC /* Add */,
 				557C6547192A8C77008AF5BA /* List */,
 			);
@@ -556,6 +557,13 @@
 			path = Entities;
 			sourceTree = "<group>";
 		};
+		84E81EA822923E4200E630BB /* Report */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Report;
+			sourceTree = "<group>";
+		};
 		CF77517E1935298C00B86F79 /* OCMock */ = {
 			isa = PBXGroup;
 			children = (
@@ -628,7 +636,7 @@
 				ORGANIZATIONNAME = "Mutual Mobile";
 				TargetAttributes = {
 					557C64C6192A782C008AF5BA = {
-						DevelopmentTeam = C556M74S8M;
+						DevelopmentTeam = 2C4H9T5RF5;
 					};
 					557C64E7192A782C008AF5BA = {
 						TestTargetID = 557C64C6192A782C008AF5BA;
@@ -839,7 +847,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = C556M74S8M;
+				DEVELOPMENT_TEAM = 2C4H9T5RF5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VIPER TODO/VIPER TODO-Prefix.pch";
 				INFOPLIST_FILE = "VIPER TODO/VIPER TODO-Info.plist";
@@ -847,6 +855,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/OCMock",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jinher.VIPER-TODO";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				WRAPPER_EXTENSION = app;
@@ -858,7 +867,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = C556M74S8M;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VIPER TODO/VIPER TODO-Prefix.pch";
 				INFOPLIST_FILE = "VIPER TODO/VIPER TODO-Info.plist";
@@ -867,6 +877,7 @@
 					"$(PROJECT_DIR)/OCMock",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				WRAPPER_EXTENSION = app;
 			};
