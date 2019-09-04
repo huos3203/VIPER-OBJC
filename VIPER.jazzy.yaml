@@ -1,0 +1,14 @@
+module: VIPER TODO
+author: iTBoyer
+github_url: https://github.com/huos3203/VIPER-OBJC
+
+theme: fullwidth
+clean: true
+objc: true
+sdk: iphonesimulator
+
+framework_root: .
+umbrella_header: VIPER-header.h
+
+skip_undocumented: false
+hide_documentation_coverage: false

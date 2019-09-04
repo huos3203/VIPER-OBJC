@@ -1,0 +1,404 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/Store/VTDCoreDataStore.h",
+      "line": 30,
+      "symbol": "VTDDataStoreFetchCompletionBlock",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/Store/VTDCoreDataStore.h",
+      "line": 32,
+      "symbol": "VTDCoreDataStore",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/Store/VTDCoreDataStore.h",
+      "line": 34,
+      "symbol": "VTDCoreDataStore.-fetchEntriesWithPredicate:sortDescriptors:completionBlock:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/Store/VTDCoreDataStore.h",
+      "line": 38,
+      "symbol": "VTDCoreDataStore.-newTodoItem",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/Store/VTDCoreDataStore.h",
+      "line": 40,
+      "symbol": "VTDCoreDataStore.-save",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/VTDClock.h",
+      "line": 27,
+      "symbol": "VTDClock",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/VTDClock.h",
+      "line": 29,
+      "symbol": "VTDClock.-today",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/VTDDeviceClock.h",
+      "line": 28,
+      "symbol": "VTDDeviceClock",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/View/VTDRootWireframe.h",
+      "line": 30,
+      "symbol": "VTDRootWireframe",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Common/View/VTDRootWireframe.h",
+      "line": 32,
+      "symbol": "VTDRootWireframe.-showRootViewController:inWindow:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Application Logic/Interactor/VTDAddInteractor.h",
+      "line": 28,
+      "symbol": "VTDAddInteractor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Application Logic/Interactor/VTDAddInteractor.h",
+      "line": 30,
+      "symbol": "VTDAddInteractor.addDataManager",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Application Logic/Interactor/VTDAddInteractor.h",
+      "line": 32,
+      "symbol": "VTDAddInteractor.-saveNewEntryWithName:dueDate:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Application Logic/Manager/VTDAddDataManager.h",
+      "line": 29,
+      "symbol": "VTDAddDataManager",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Application Logic/Manager/VTDAddDataManager.h",
+      "line": 31,
+      "symbol": "VTDAddDataManager.dataStore",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Application Logic/Manager/VTDAddDataManager.h",
+      "line": 33,
+      "symbol": "VTDAddDataManager.-addNewEntry:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Module Interface/VTDAddModuleDelegateInterface.h",
+      "line": 27,
+      "symbol": "VTDAddModuleDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Module Interface/VTDAddModuleDelegateInterface.h",
+      "line": 29,
+      "symbol": "VTDAddModuleDelegate.-addModuleDidCancelAddAction",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Module Interface/VTDAddModuleDelegateInterface.h",
+      "line": 30,
+      "symbol": "VTDAddModuleDelegate.-addModuleDidSaveAddAction",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Module Interface/VTDAddModuleInterface.h",
+      "line": 26,
+      "symbol": "VTDAddModuleInterface",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Module Interface/VTDAddModuleInterface.h",
+      "line": 28,
+      "symbol": "VTDAddModuleInterface.-cancelAddAction",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/Module Interface/VTDAddModuleInterface.h",
+      "line": 29,
+      "symbol": "VTDAddModuleInterface.-saveAddActionWithName:dueDate:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/User Interface/Presenter/VTDAddPresenter.h",
+      "line": 35,
+      "symbol": "VTDAddPresenter",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/User Interface/Presenter/VTDAddPresenter.h",
+      "line": 37,
+      "symbol": "VTDAddPresenter.addInteractor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/User Interface/Presenter/VTDAddPresenter.h",
+      "line": 38,
+      "symbol": "VTDAddPresenter.addWireframe",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/User Interface/Presenter/VTDAddPresenter.h",
+      "line": 40,
+      "symbol": "VTDAddPresenter.addModuleDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/User Interface/Presenter/VTDAddPresenter.h",
+      "line": 42,
+      "symbol": "VTDAddPresenter.-configureUserInterfaceForPresentation:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/User Interface/Wireframe/VTDAddWireframe.h",
+      "line": 28,
+      "symbol": "VTDAddWireframe",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/User Interface/Wireframe/VTDAddWireframe.h",
+      "line": 30,
+      "symbol": "VTDAddWireframe.addPresenter",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/User Interface/Wireframe/VTDAddWireframe.h",
+      "line": 32,
+      "symbol": "VTDAddWireframe.-presentAddInterfaceFromViewController:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/Add/User Interface/Wireframe/VTDAddWireframe.h",
+      "line": 33,
+      "symbol": "VTDAddWireframe.-dismissAddInterface",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Interactor/VTDListInteractor.h",
+      "line": 31,
+      "symbol": "VTDListInteractor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Interactor/VTDListInteractor.h",
+      "line": 33,
+      "symbol": "VTDListInteractor.output",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Interactor/VTDListInteractor.h",
+      "line": 35,
+      "symbol": "VTDListInteractor.-initWithDataManager:clock:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Interactor/VTDListInteractorIO.h",
+      "line": 27,
+      "symbol": "VTDListInteractorInput",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Interactor/VTDListInteractorIO.h",
+      "line": 28,
+      "symbol": "VTDListInteractorInput.-findUpcomingItems",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Interactor/VTDListInteractorIO.h",
+      "line": 32,
+      "symbol": "VTDListInteractorOutput",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Interactor/VTDListInteractorIO.h",
+      "line": 34,
+      "symbol": "VTDListInteractorOutput.-foundUpcomingItems:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Manager/VTDListDataManager.h",
+      "line": 29,
+      "symbol": "VTDListDataManagerFetchEntriesBlock",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Manager/VTDListDataManager.h",
+      "line": 31,
+      "symbol": "VTDListDataManager",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Manager/VTDListDataManager.h",
+      "line": 33,
+      "symbol": "VTDListDataManager.dataStore",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Application Logic/Manager/VTDListDataManager.h",
+      "line": 35,
+      "symbol": "VTDListDataManager.-todoItemsBetweenStartDate:endDate:completionBlock:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Module Interface/VTDListModuleInterface.h",
+      "line": 29,
+      "symbol": "VTDListModuleInterface",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Module Interface/VTDListModuleInterface.h",
+      "line": 31,
+      "symbol": "VTDListModuleInterface.-updateView",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/Module Interface/VTDListModuleInterface.h",
+      "line": 32,
+      "symbol": "VTDListModuleInterface.-addNewEntry",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Presenter/VTDListPresenter.h",
+      "line": 33,
+      "symbol": "VTDListPresenter",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Presenter/VTDListPresenter.h",
+      "line": 35,
+      "symbol": "VTDListPresenter.listInteractor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Presenter/VTDListPresenter.h",
+      "line": 36,
+      "symbol": "VTDListPresenter.listWireframe",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Presenter/VTDListPresenter.h",
+      "line": 38,
+      "symbol": "userInterface",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Wireframe/VTDListWireframe.h",
+      "line": 31,
+      "symbol": "VTDListWireframe",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Wireframe/VTDListWireframe.h",
+      "line": 33,
+      "symbol": "VTDListWireframe.addWireframe",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Wireframe/VTDListWireframe.h",
+      "line": 34,
+      "symbol": "VTDListWireframe.listPresenter",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Wireframe/VTDListWireframe.h",
+      "line": 35,
+      "symbol": "VTDListWireframe.rootWireframe",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Wireframe/VTDListWireframe.h",
+      "line": 37,
+      "symbol": "VTDListWireframe.-presentListInterfaceFromWindow:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/Modules/List/User Interface/Wireframe/VTDListWireframe.h",
+      "line": 38,
+      "symbol": "VTDListWireframe.-presentAddInterface",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/VTDAppDependencies.h",
+      "line": 26,
+      "symbol": "VTDAppDependencies",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/admin/hsg/issue-13-viper/VIPER TODO/Classes/VTDAppDependencies.h",
+      "line": 28,
+      "symbol": "VTDAppDependencies.-installRootViewControllerIntoWindow:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/admin/hsg/issue-13-viper"
+}

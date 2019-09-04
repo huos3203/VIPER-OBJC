@@ -128,6 +128,8 @@
 		559998D8192E71040093721B /* VTDCoreDataStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VTDCoreDataStore.m; sourceTree = "<group>"; };
 		559998DC192E71460093721B /* VTDTodoItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VTDTodoItem.h; sourceTree = "<group>"; };
 		559998DD192E71460093721B /* VTDTodoItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VTDTodoItem.m; sourceTree = "<group>"; };
+		84A75BB4231F81D5009D8EF7 /* VIPER.jazzy.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = VIPER.jazzy.yaml; sourceTree = "<group>"; };
+		84A75BB5231F8269009D8EF7 /* VIPER-header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "VIPER-header.h"; sourceTree = "<group>"; };
 		CF775165192EAB0300B86F79 /* VTDUpcomingDisplayData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VTDUpcomingDisplayData.h; sourceTree = "<group>"; };
 		CF775166192EAB0300B86F79 /* VTDUpcomingDisplayData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VTDUpcomingDisplayData.m; sourceTree = "<group>"; };
 		CF775168192EAB4300B86F79 /* VTDUpcomingDisplaySection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VTDUpcomingDisplaySection.h; sourceTree = "<group>"; };
@@ -189,6 +191,8 @@
 		557C64BE192A782C008AF5BA = {
 			isa = PBXGroup;
 			children = (
+				84A75BB4231F81D5009D8EF7 /* VIPER.jazzy.yaml */,
+				84A75BB5231F8269009D8EF7 /* VIPER-header.h */,
 				557C64D0192A782C008AF5BA /* VIPER TODO */,
 				557C64EF192A782C008AF5BA /* VIPER TODOTests */,
 				557C64C9192A782C008AF5BA /* Frameworks */,
