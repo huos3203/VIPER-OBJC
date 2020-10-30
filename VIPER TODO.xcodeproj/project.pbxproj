@@ -54,6 +54,7 @@
 		CF7751901938B00400B86F79 /* VTDListViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF77518F1938B00400B86F79 /* VTDListViewTests.m */; };
 		CFEAA0E9192B0143006C8048 /* VTDRelativeDateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CFEAA0E8192B0143006C8048 /* VTDRelativeDateTests.m */; };
 		CFEAA0EE192B5BBB006C8048 /* VTDCalendarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CFEAA0ED192B5BBB006C8048 /* VTDCalendarTests.m */; };
+		F9AF196F254BA09B006DD54D /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9AF196E254BA09B006DD54D /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -161,6 +162,7 @@
 		CF77518F1938B00400B86F79 /* VTDListViewTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VTDListViewTests.m; sourceTree = "<group>"; };
 		CFEAA0E8192B0143006C8048 /* VTDRelativeDateTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = VTDRelativeDateTests.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		CFEAA0ED192B5BBB006C8048 /* VTDCalendarTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VTDCalendarTests.m; sourceTree = "<group>"; };
+		F9AF196E254BA09B006DD54D /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,7 +230,7 @@
 			isa = PBXGroup;
 			children = (
 				557C64FF192A7909008AF5BA /* Classes */,
-				557C650C192A792B008AF5BA /* Resources */,
+				F9AF196D254BA063006DD54D /* Resources */,
 				557C64D1192A782C008AF5BA /* Supporting Files */,
 				CF77517E1935298C00B86F79 /* OCMock */,
 			);
@@ -302,15 +304,6 @@
 				557C6547192A8C77008AF5BA /* List */,
 			);
 			path = Modules;
-			sourceTree = "<group>";
-		};
-		557C650C192A792B008AF5BA /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				5519B140192FC6D800537ED4 /* Images.xcassets */,
-				CF77516E192EAF7800B86F79 /* Main.storyboard */,
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		557C653A192A7C7A008AF5BA /* View */ = {
@@ -593,6 +586,16 @@
 			name = Clock;
 			sourceTree = "<group>";
 		};
+		F9AF196D254BA063006DD54D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5519B140192FC6D800537ED4 /* Images.xcassets */,
+				CF77516E192EAF7800B86F79 /* Main.storyboard */,
+				F9AF196E254BA09B006DD54D /* Launch Screen.storyboard */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -676,6 +679,7 @@
 			files = (
 				5519B141192FC6D800537ED4 /* Images.xcassets in Resources */,
 				557C64D5192A782C008AF5BA /* InfoPlist.strings in Resources */,
+				F9AF196F254BA09B006DD54D /* Launch Screen.storyboard in Resources */,
 				CF775170192EAF7800B86F79 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -857,6 +861,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VIPER TODO/VIPER TODO-Prefix.pch";
 				INFOPLIST_FILE = "VIPER TODO/VIPER TODO-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/OCMock",
@@ -879,6 +884,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VIPER TODO/VIPER TODO-Prefix.pch";
 				INFOPLIST_FILE = "VIPER TODO/VIPER TODO-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/OCMock",
